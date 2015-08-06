@@ -1,0 +1,9 @@
+c:\users\metro-pc\documents\visual studio 2012\Projects\Nicsmedia\Nicsmedia\bin\Debug\Nicsmedia.exe.config
+c:\users\metro-pc\documents\visual studio 2012\Projects\Nicsmedia\Nicsmedia\bin\Debug\Nicsmedia.exe
+c:\users\metro-pc\documents\visual studio 2012\Projects\Nicsmedia\Nicsmedia\bin\Debug\Nicsmedia.pdb
+c:\users\metro-pc\documents\visual studio 2012\Projects\Nicsmedia\Nicsmedia\obj\Debug\Nicsmedia.csprojResolveAssemblyReference.cache
+c:\users\metro-pc\documents\visual studio 2012\Projects\Nicsmedia\Nicsmedia\obj\Debug\Nicsmedia.Form1.resources
+c:\users\metro-pc\documents\visual studio 2012\Projects\Nicsmedia\Nicsmedia\obj\Debug\Nicsmedia.Properties.Resources.resources
+c:\users\metro-pc\documents\visual studio 2012\Projects\Nicsmedia\Nicsmedia\obj\Debug\Nicsmedia.csproj.GenerateResource.Cache
+c:\users\metro-pc\documents\visual studio 2012\Projects\Nicsmedia\Nicsmedia\obj\Debug\Nicsmedia.exe
+c:\users\metro-pc\documents\visual studio 2012\Projects\Nicsmedia\Nicsmedia\obj\Debug\Nicsmedia.pdb
